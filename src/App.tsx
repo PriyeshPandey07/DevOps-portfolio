@@ -122,10 +122,7 @@ const experiences = [
 
 // Certifications - Entry-level relevant certifications
 const certifications = [
-  { name: "Red Hat Certified System Administrator", provider: "Red Hat" },
-  { name: "Docker Fundamentals", provider: "Docker" },
-  { name: "Kubernetes Essentials", provider: "CKAD Prep Course" },
-  { name: "GitHub Actions Certification", provider: "GitHub (In Progress)" }
+  { name: "Red Hat Certified System Administrator", provider: "Red Hat" }
 ];
 
 function App() {
@@ -467,7 +464,7 @@ function App() {
               <p className="text-slate-400 text-sm">priyeshpandey0705@gmail.com</p>
             </a>
             <a 
-              href="/pdf/Priyesh_Pandey_DevOps_Resume.pdf"
+              href="/pdf/PriyeshPandeyResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="p-6 bg-slate-800/50 border border-slate-700 hover:border-purple-500/50 rounded-2xl transition-all hover:shadow-lg hover:shadow-purple-500/10 group"
@@ -511,7 +508,7 @@ function App() {
               </a>
               <a 
                 href="/pdf/PriyeshPandeyResume.pdf" 
-                download="Priyesh_Pandey_DevOps_Resume.pdf"
+                download="PriyeshPandeyResume.pdf"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-400 hover:to-purple-500 text-white font-semibold rounded-lg transition-all hover:scale-105 shadow-lg shadow-purple-500/25"
               >
                 <FileDown className="w-5 h-5" />
