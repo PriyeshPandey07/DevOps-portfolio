@@ -501,7 +501,7 @@ function App() {
             <div className="flex flex-wrap gap-4">
               <a 
                 href="mailto:priyeshpandey0705@gmail.com"
-                className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-cyan-500 to-cyan-600 hover:from-cyan-400 hover:to-cyan-500 text-slate-900 font-semibold rounded-lg transition-all hover:scale-105 shadow-lg shadow-cyan-500/25"
+                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-gradient-to-r from-cyan-500 to-cyan-600 hover:from-cyan-400 hover:to-cyan-500 text-slate-900 font-semibold rounded-lg transition-all hover:scale-105 shadow-lg shadow-cyan-500/25 break-words text-center"
               >
                 Contact Me
                 <ExternalLink className="w-5 h-5" />
