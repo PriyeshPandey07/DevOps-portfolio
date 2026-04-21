@@ -95,7 +95,7 @@ const experiences = [
       "Assisted in maintaining CI/CD pipelines using Jenkins and GitHub Actions",
       "Learned containerization with Docker and Kubernetes basics",
       "Collaborated with senior engineers on cloud infrastructure tasks",
-      "Trusted with responsibilities of AWS services (EC2, S3, IAM, Auto Scaling, Load Balancer, VPC"
+      "Trusted with responsibilities of AWS services (EC2, S3, IAM, Auto Scaling, Load Balancer, VPC)"
     ]
   },
   {
@@ -510,7 +510,7 @@ function App() {
                 <ExternalLink className="w-5 h-5" />
               </a>
               <a 
-                href="/pdf/Priyesh_Pandey_Resume.pdf" 
+                href="/pdf/PriyeshPandeyResume.pdf" 
                 download="Priyesh_Pandey_DevOps_Resume.pdf"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-400 hover:to-purple-500 text-white font-semibold rounded-lg transition-all hover:scale-105 shadow-lg shadow-purple-500/25"
               >
@@ -527,7 +527,7 @@ function App() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <Terminal className="w-6 h-6 text-cyan-400" />
-            <span className="text-slate-400">© 2024 Your Name. Built with React & Tailwind</span>
+            <span className="text-slate-400">© 2024 Priyesh Pandey. Built with React & Tailwind</span>
           </div>
           <div className="flex items-center gap-6">
             <a href="https://github.com/PriyeshPandey07" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
