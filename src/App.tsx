@@ -268,7 +268,7 @@ function App() {
                     <div className="w-24 h-24 mx-auto mb-4 bg-gradient-to-r from-cyan-500 to-purple-500 rounded-2xl flex items-center justify-center">
                       <GraduationCap className="w-12 h-12 text-white" />
                     </div>
-                    <p className="text-3xl font-bold text-white">2024</p>
+                    <p className="text-3xl font-bold text-white">2026</p>
                     <p className="text-slate-400">Fresh Graduate</p>
                   </div>
                 </div>
